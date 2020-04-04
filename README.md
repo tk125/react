@@ -23,9 +23,23 @@ function func (){
 ```
 ####Arrow functions 
 ```
+Example 1
 const func = () =>{
   ...
 }
+Example 2 - For single argument we can ommit the ()
+const func = name =>{
+  console.log(name);
+}
+func();
+Example 3 
+const multiply = number =>{
+  return number * 2;
+}
+console.log(multiply(2));
+Example 4 - give the same result at Example 3. Basically for a single return function we can write it this way.
+const multiply = number => number * 2;
+console.log(multiply(2));
 ```
 
 ## Simple React function
