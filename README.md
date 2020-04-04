@@ -2,8 +2,30 @@
 
 ## ES6 Javascript used in react
 
+###Keywords
+
 let keyword is just like var
 const keyword is a const that should not change after its definition
+
+###arrow functions
+
+####Conventional JS function
+```
+var func = function() {
+  ...
+ }
+```
+or
+```
+function func (){
+  ...
+}
+```
+####Arrow functions 
+
+const func = () =>{
+  ...
+}
 
 ## Simple React function
 
