@@ -31,7 +31,7 @@ function Person(){
     </div>
   );  
 }
-//user ReactDOM to render a JS function as a some sort of a "HTML Element" and points to where to render it.
+//use ReactDOM to render a JS function as a some sort of a "HTML Element" and points to where to render it.
 ReactDOM.render(<Person/>,document.querySelector("#p1"));
 
 //dynamic react component
