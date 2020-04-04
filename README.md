@@ -22,10 +22,11 @@ function func (){
 }
 ```
 ####Arrow functions 
-
+```
 const func = () =>{
   ...
 }
+```
 
 ## Simple React function
 
