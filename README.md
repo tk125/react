@@ -1,5 +1,10 @@
 # react
 
+## ES6 Javascript used in react
+
+let keyword is just like var
+const keyword is a const that should not change after its definition
+
 ## Simple React function
 
 ``` 
